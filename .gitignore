@@ -10,3 +10,5 @@ wheels/
 .venv
 .DS_Store
 fastapi-library-crud-course.md
+.env
+.db
